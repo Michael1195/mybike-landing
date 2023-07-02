@@ -1,2 +1,2 @@
 
-- [DEMO LINK](https://michael1195.github.io/mybike-lending/)
+- [DEMO LINK](https://michael1195.github.io/mybike-landing/)
